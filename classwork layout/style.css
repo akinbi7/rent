@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: white;
+}
+
+#feature h3{
+    font-weight: bolder;
+}
+
+#feature p{
+    color: black;
+    font-style: italic;
+}
+
+#a h4{
+    color: blue;
+}
+
+#a h2{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#a p{
+    color: black;
+}
+
+#a a{
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
+
+#btn{
+    background: black;
+    font-weight: bold;
+    border: none;
+}
+
+#btn a{
+    color: white;
+}
+
+.fa-heart{
+    font-size: 30px;
+    color: blue;
+}
+
+#choose h3{
+    font-weight: bold;
+}
+
+
+#choose p{
+    color: black;
+    font-style: italic;
+}
+
+
+#jumb i{
+    font-size: 50px;
+    margin-top: 20px;
+    color: #1b6d85;
+    background: lightgray;
+    padding: 30px 30px;
+    border-radius: 50%;
+}
+
+#jumb h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#jumb p{
+    color: black;
+    font-size: 15px;
+}
+
+#become h2{
+    color: white;
+}
+
+#become p{
+    color: white;
+}
+
+
